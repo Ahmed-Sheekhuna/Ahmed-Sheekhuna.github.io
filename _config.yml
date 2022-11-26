@@ -1,7 +1,7 @@
 title: Ahmed Sheekhuna Portfolio
 logo: assets\img\Github Logo.JPG
 description: Here i will display my Projects.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
